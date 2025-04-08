@@ -2,13 +2,14 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- Optional: Add a license if you choose one -->
 
-![NoteFlow Screenshot](placeholder.png) <!-- TODO: Add a screenshot or GIF of the landing page -->
+[NoteFlow Screenshot] : <img width="1728" alt="Screenshot 2025-04-09 at 00 30 26" src="https://github.com/user-attachments/assets/eb929eb3-8732-44db-b146-b6de9db06be9" />
+
 
 ## Description
 
 NoteFlow is an AI-powered note-taking app that helps you capture, organize, and summarize your notes effortlessly. This repository contains the code for the SaaS landing page, designed to showcase the app's features and encourage user sign-ups. Built with modern frontend technologies, it demonstrates responsive design and interactive UI elements.
 
-**Live Demo:** [Link to your live deployment] <!-- TODO: Add link to live demo once deployed -->
+**Live Demo:** [Link to your live deployment] <!-- TODO: Add link to live demo once deployed dont forget  -->
 
 ## Key Features
 
