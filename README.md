@@ -43,5 +43,6 @@ NoteFlow is an AI-powered note-taking app that helps you capture, organize, and 
     cd NoteFlow # Updated directory name based on repo name
     ```
 
-2.  **Install dependencies:**
+2.  **Install dependencies:** npm install
     ```
+    npm install
