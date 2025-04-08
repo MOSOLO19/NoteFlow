@@ -9,7 +9,7 @@
 
 NoteFlow is an AI-powered note-taking app that helps you capture, organize, and summarize your notes effortlessly. This repository contains the code for the SaaS landing page, designed to showcase the app's features and encourage user sign-ups. Built with modern frontend technologies, it demonstrates responsive design and interactive UI elements.
 
-**Live Demo:** [Link to your live deployment] <!-- TODO: Add link to live demo once deployed dont forget  -->
+**Live Demo:** (https://note-flow-red.vercel.app/)
 
 ## Key Features
 
